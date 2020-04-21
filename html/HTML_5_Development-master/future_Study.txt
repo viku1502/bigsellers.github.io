@@ -1,0 +1,43 @@
+HTML
+-----
+-> https://www.freecodecamp.org/
+-> https://www.os-templates.com
+-> https://www.sitepoint.com
+
+CSS
+---
+-> https://www.freecodecamp.org/
+-> https://templated.co/
+-> https://html5up.net/
+
+JavaScript
+-----------
+-> You Don't Know JS Book
+-> Asnc JS , Callbacks , Promises
+-> Youtube channel "The Net Ninja"
+
+JQuery
+------
+-> https://jquery.com
+-> https://www.jqueryscript.net/
+
+Angular JS
+----------
+-> http://www.angularjs.org/
+
+TypeScript
+----------
+-> http://typescriptlang.org/
+
+Bootstrap
+----------
+-> http://www.getbootstrap.com
+-> http://www.getbootstrap.com
+-> https://startbootstrap.com
+
+
+
+
+
+
+
